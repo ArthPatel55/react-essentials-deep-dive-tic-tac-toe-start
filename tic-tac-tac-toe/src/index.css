@@ -18,12 +18,13 @@ html {
 }
 
 body {
-  background: radial-gradient(
-      circle at top,
-      rgba(241, 210, 70, 0.98),
-      rgba(250, 176, 103, 0.87)
+  background: linear-gradient(#42a9f3,#0167e3,#e5ce25db);
+      /* circle at top,
+      rgba(70, 170, 241, 0.98),
+      rgba(17, 61, 235, 0.87)
+      rgba(70, 213, 226, 0.717)
     ),
-    url('bg-pattern-dark.png');
+    url('bg-pattern-dark.png'); */
   background-repeat: repeat;
   background-size: 100% 100%, 30% 30%, 100% 100%;
   min-height: 110rem;
