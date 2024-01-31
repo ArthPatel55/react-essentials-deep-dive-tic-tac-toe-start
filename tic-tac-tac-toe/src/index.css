@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  background: linear-gradient(#42a9f3,#0167e3,#e5ce25db);
+  background: linear-gradient(to bottom right,#0167e3,#e5ce25db);
       /* circle at top,
       rgba(70, 170, 241, 0.98),
       rgba(17, 61, 235, 0.87)
